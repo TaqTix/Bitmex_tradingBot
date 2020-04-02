@@ -5,7 +5,9 @@ C-wrapper TA-Lib to perform Technical Analysis logic.
 
 Implemented features (logic follows investopedia):
 
-MacD Strategy  RSI Strategy 
+MacD Strategy
+
+RSI Strategy 
 
 
 Example Usage (already provided in script)
