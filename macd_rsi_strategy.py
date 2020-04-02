@@ -10,8 +10,8 @@ TIME_PERIOD = '1h'
 
 def createCandles():
     TEST_EXCHANGE=True
-    API_KEY="qm2yuPWBQsRdeYwTqobd0_7q"
-    API_SECRET="LXs_fcch8p-poDUJ6H9DF7icX-J2dHRKNsrGfRqLvoWmN_fq"
+    API_KEY="removed_for_security"
+    API_SECRET="removed_for_security"
 
     client = bitmex.bitmex(
         test=TEST_EXCHANGE,
